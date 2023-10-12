@@ -1,7 +1,7 @@
 // var React=require("react");
  import React from "react";
  //var ReactDom=require('react-dom');
- import ReactDom  from 'react-dom';
+ //import ReactDom  from 'react-dom';
  let currDate=new Date(2022,5,5,14);
  currDate=currDate.getHours();
  let greeting ='';
